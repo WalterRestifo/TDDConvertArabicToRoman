@@ -1,0 +1,17 @@
+{
+  "name": "convertarabictoromantdd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "dependencies": {
+    "parcel-bundler": "latest"
+  },
+  "devDependencies": {
+    "jest": "29.3.1"
+  },
+  "keywords": []
+}
